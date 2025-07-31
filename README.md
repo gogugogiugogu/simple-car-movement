@@ -2,7 +2,7 @@
 # Simple Car Movement (Roblox Lua Script)
 
 🚗 A simple Lua script using the `MoveTo()` function in Roblox Studio.  
-It makes a Humanoid (like a car) move between parts in a loop. Great for NPC background cars or games like *Cross the Road*, especially if you add a “kill” script to the car.
+It makes a Humanoid (like a car) move between parts in a loop. Great for NPC background cars or games like *Cross the Road*, especially if you add a killing script to the car.
 
 ---
 
